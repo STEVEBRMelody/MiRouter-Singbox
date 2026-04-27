@@ -149,6 +149,10 @@ cd至启动脚本位置,并运行
 按下图配置后端地址  
 <div align="center">
   <img src="pic/webpanel1.png">
+  <img src="pic/webpanel2.png">
 </div>
+
+---
+教程结束,若有任何问题,欢迎发起issue,我会尽量解答
 
 
