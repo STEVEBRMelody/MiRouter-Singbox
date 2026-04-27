@@ -148,8 +148,8 @@ cd至启动脚本位置,并运行
 打开浏览器,访问[192.168.31.1:9999](http://192.168.31.1:9999)  
 按下图配置后端地址  
 <div align="center">
-  <img src="pic/webpanel1.png">
-  <img src="pic/webpanel2.png">
+  <img src="pic/webpanel1.png" width="45%"><br><br>
+  <img src="pic/webpanel2.png" width="85%">
 </div>
 
 ---
